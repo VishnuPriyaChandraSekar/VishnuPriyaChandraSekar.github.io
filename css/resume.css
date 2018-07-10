@@ -148,8 +148,8 @@ a:hover, a:focus, a:active {
 
 .fa-leetcode:before{
 
-   content: '';
-    background-image: url(../img/leetcode.png);
+    content: '';
+    background-image: url(../img/leetcode.PNG);
     background-size: cover;
     position: absolute;
     width: 24px;
